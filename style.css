@@ -7,7 +7,7 @@
 }
 
 .loginbar{
-    display: inline;
+    display: inline-block;
     float: right;
 }
 
