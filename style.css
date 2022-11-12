@@ -29,7 +29,7 @@
     opacity: 0;
 }
 
-.경상남도지도 > button:hover {
+.button:hover {
     background-color: rgb(240, 192, 119);
     color: #000;
     border-color: rgb(152, 113, 50);
