@@ -36,41 +36,41 @@
     opacity: 0.5;
 }
 
-#거창{top: 135px; left: 390px;}
+.경상남도지도 > #거창{top: 135px; left: 390px;}
 
-#함양{top: 250px; left: 280px;}
+.경상남도지도 > #함양{top: 250px; left: 280px;}
 
-#산청{top: 350px; left: 390px;}
+.경상남도지도 > #산청{top: 350px; left: 390px;}
 
-#하동{top: 520px; left: 330px;}
+.경상남도지도 > #하동{top: 520px; left: 330px;}
 
-#사천{top: 540px; left: 440px;}
+.경상남도지도 > #사천{top: 540px; left: 440px;}
 
-#남해{top: 700px; left: 400px;}
+.경상남도지도 > #남해{top: 700px; left: 400px;}
 
-#고성{top: 540px; left: 550px;}
+.경상남도지도 > #고성{top: 540px; left: 550px;}
 
-#통영{top: 630px; left: 620px;}
+.경상남도지도 > #통영{top: 630px; left: 620px;}
 
-#거제{top: 650px; left: 720px;}
+.경상남도지도 > #거제{top: 650px; left: 720px;}
 
-#진주{top: 440px; left: 490px;}
+.경상남도지도 > #진주{top: 440px; left: 490px;}
 
-#합천{top: 280px; left: 470px;}
+.경상남도지도 > #합천{top: 280px; left: 470px;}
 
-#의령{top: 330px; left: 550px;}
+.경상남도지도 > #의령{top: 330px; left: 550px;}
 
-#창녕{top: 280px; left: 650px;}
+.경상남도지도 > #창녕{top: 280px; left: 650px;}
 
-#밀양{top: 260px; left: 780px;}
+.경상남도지도 > #밀양{top: 260px; left: 780px;}
 
-#함안{top: 370px; left: 650px;}
+.경상남도지도 > #함안{top: 370px; left: 650px;}
 
-#창원{top: 430px; left: 730px;}
+.경상남도지도 > #창원{top: 430px; left: 730px;}
 
-#김해{top: 420px; left: 830px;}
+.경상남도지도 > #김해{top: 420px; left: 830px;}
 
-#양산{top: 340px; left: 920px;}
+.경상남도지도 > #양산{top: 340px; left: 920px;}
 
 .footer{
     background-color: gray;
