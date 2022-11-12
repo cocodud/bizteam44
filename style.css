@@ -6,6 +6,11 @@
     
 }
 
+.loginbar{
+    display: inline;
+    float: right;
+}
+
 .경상남도지도 > img{
     margin: 0 auto;
     width: 1200px;
