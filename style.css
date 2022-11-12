@@ -11,6 +11,10 @@
     float: right;
 }
 
+.경상남도지도 {
+    width: 0px;
+}
+
 .경상남도지도 > img{
     margin: 0 auto;
     width: 1200px;
