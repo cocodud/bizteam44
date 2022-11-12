@@ -29,11 +29,11 @@
     opacity: 0;
 }
 
-경상남도지도 button:hover {
+.경상남도지도 > button:hover {
     background-color: rgb(240, 192, 119);
     color: #000;
     border-color: rgb(152, 113, 50);
-    opacity: 1;
+    opacity: 0.5;
 }
 
 .경상남도지도 > #거창{top: 135px; left: 390px;}
