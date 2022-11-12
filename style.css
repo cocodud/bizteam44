@@ -1,0 +1,234 @@
+*{
+    background-color: beige;
+}
+
+.home > img{
+    
+}
+
+.경상남도지도 > img{
+    margin: 0 auto;
+    width: 1200px;
+    height: auto;
+    display: block;
+    position: relative;
+}
+
+.경상남도지도 > #거창{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 135px;
+    left: 420px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #함양{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 250px;
+    left: 330px;
+    z-index: 100;
+    opacity: 0;  
+}
+
+.경상남도지도 > #산청{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 350px;
+    left: 410px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #하동{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 520px;
+    left: 350px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #사천{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 540px;
+    left: 470px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #남해{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 700px;
+    left: 440px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #고성{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 540px;
+    left: 600px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #통영{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 630px;
+    left: 640px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #거제{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 650px;
+    left: 760px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #진주{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 440px;
+    left: 530px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #합천{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 280px;
+    left: 510px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #의령{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 330px;
+    left: 600px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #창녕{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 280px;
+    left: 700px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #밀양{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 260px;
+    left: 810px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #함안{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 370px;
+    left: 680px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #창원{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 430px;
+    left: 760px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #김해{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 420px;
+    left: 870px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.경상남도지도 > #양산{
+    width: 80px;
+    height: 80px;
+    cursor: auto;
+    position: absolute;
+    top: 340px;
+    left: 960px;
+    z-index: 100;
+    opacity: 0;
+}
+
+.footer{
+    background-color: gray;
+    height: auto;
+    justify-content: center;
+    padding: 40px;
+    color: #fff;
+    text-align: center;
+    width: auto;
+    position: relative;
+    bottom: 0px;
+}
+
+.footer > p {
+    background-color: gray;
+}
+
+.footer > p > a{
+    background-color: gray;
+    color: #fff;
+}
