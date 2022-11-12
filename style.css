@@ -25,9 +25,8 @@
     border-radius: 30%;
     cursor: pointer;
     position: absolute;
-    z-index: 100;
-    background-attachment: 
-
+    z-index: 100; 
+    opacity: 0;
 }
 
 .경상남도지도 > button:hover {
