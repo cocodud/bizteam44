@@ -2,6 +2,10 @@
     background-color: beige;
 }
 
+.home > img{
+
+}
+
 .loginbar{
     display: inline-block;
     float: right;
