@@ -2,10 +2,6 @@
     background-color: beige;
 }
 
-.home > img{
-    
-}
-
 .loginbar{
     display: inline-block;
     float: right;
@@ -16,6 +12,7 @@
     width: 1200px;
     height: auto;
     display: block;
+    object-fit: cover;
 }
 
 .경상남도지도 > button{
