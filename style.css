@@ -104,7 +104,7 @@
 .경상남도지도 > button:hover {
     background-color: rgb(240, 192, 119);
     color: #000;
-    border-color: rgb(152, 113, 50);
+    border: none;
     opacity: 0.5;
 }
 
